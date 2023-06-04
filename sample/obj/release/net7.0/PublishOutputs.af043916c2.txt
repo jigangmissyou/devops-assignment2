@@ -1,0 +1,7 @@
+D:\SD7501\DevOpsSecurity\app\sample2\sample\bin\release\net7.0\publish\sample.exe
+D:\SD7501\DevOpsSecurity\app\sample2\sample\bin\release\net7.0\publish\appsettings.Development.json
+D:\SD7501\DevOpsSecurity\app\sample2\sample\bin\release\net7.0\publish\appsettings.json
+D:\SD7501\DevOpsSecurity\app\sample2\sample\bin\release\net7.0\publish\sample.dll
+D:\SD7501\DevOpsSecurity\app\sample2\sample\bin\release\net7.0\publish\sample.deps.json
+D:\SD7501\DevOpsSecurity\app\sample2\sample\bin\release\net7.0\publish\sample.runtimeconfig.json
+D:\SD7501\DevOpsSecurity\app\sample2\sample\bin\release\net7.0\publish\sample.pdb
