@@ -6,10 +6,10 @@ metadata:
   labels:
     app: mysample
 spec:
-  type: NodePort
+  type: LoadBalancer
   ports:
   - port: 80
     targetPort: 80
-    nodePort: 32000
+    nodePort: 33000
   selector:
     app: mysample
